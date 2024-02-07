@@ -1,0 +1,14 @@
+Package: montyhall
+Title: Monty Hall Strategy Simulator
+Version: 0.0.0.9000
+Authors@R: 
+    person("David", "Leal", , "drleal@asu.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package breaks down the Monty Hall problem into separate parts to examine how the game functions and how the contestant strategy affects gameplay and ultimately results; additionally, this package uses the Monty Hall data set to run simulations to ensure each function operates as expected.
+Depends:
+    dplyr
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
